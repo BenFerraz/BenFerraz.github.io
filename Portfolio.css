@@ -1,7 +1,49 @@
 body{
-    background-color:powderblue;
+    background-image: image-set();
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-head{
-    background-color: darkgrey;
+
+
+.header{
+    padding:10px;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+
+
+.skillsAndExperienceColumn{
+    float: left;
+    width: 49.6%;
+    background-color: aqua;
+    border-style: ridge;
+}
+
+.skillsAndExperienceColumn h1{
+    text-align: center;
+}
+
+
+
+.cvColumn{
+    float: right;
+    width: 49.6%;
+    background-color: red;
+    border-style: ridge;
+}
+
+.cvColumn h1{
+    text-align: center;
+}
+
+
+
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
 }
