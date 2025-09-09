@@ -1,3 +1,31 @@
+.mobile-message {
+    display: none;
+}
+
+@media (max-width: 1024px) {
+  .desktop-content {
+    display: none;
+  }
+
+  .mobile-message {
+    display: block;
+    margin-top: 75%;
+    padding: 15%;
+  }
+
+  .mobile-message h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .mobile-message p {
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+}
+
 body {
     background-color: #121212;
 }
@@ -110,6 +138,10 @@ body {
     width: 100%;
 }
 
+.game-three-container img:hover {
+    filter: brightness(80%);
+}
+
 .game-four-container {
     width: 100%;
     margin-top: 10%;
@@ -122,6 +154,10 @@ body {
 
 .game-four-container img {
     width: 100%;
+}
+
+.game-four-container img:hover {
+    filter: brightness(80%);
 }
 
 .modelling {

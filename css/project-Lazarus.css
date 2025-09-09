@@ -29,8 +29,8 @@ body {
 .project-lazarus-title-container h1 {
     color: #E0E0E0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 350%;
-    margin-top: 30%;
+    font-size: 250%;
+    margin-top: 40%;
 }
 
 .project-lazarus-image-container {
@@ -257,4 +257,26 @@ body {
 
 .pl-twelve-container img {
     width: 100%;
+}
+
+.bottom-go-back-container {
+    height: 100px;
+}
+
+.bottom-go-back-button{
+    width: 65%;
+    margin: 0 auto;
+}
+
+.bottom-go-back-button h1 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10%;
+}
+
+.bottom-go-back-button a {
+    text-decoration: none;
 }

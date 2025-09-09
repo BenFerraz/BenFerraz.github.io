@@ -1,0 +1,142 @@
+body {
+    background-color: #121212;
+}
+
+.go-back{
+    width: 65%;
+    margin: 0 auto;
+}
+
+.go-back h1 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: right;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.introduction {
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+.title-container {
+    width: 70%;
+    margin-top: 7%;
+}
+
+.title-container h1 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+    margin-top: 40%;
+}
+
+.image-container {
+    width: 120%;
+    float: right;
+}
+
+.image {
+    background-color: #1E1E1E;
+    height: 100%;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+}
+
+.image img {
+    border-radius: 2%;
+}
+
+.about-description-container {
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 5%;
+    padding: 1%;
+}
+
+.about-description-container h1 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 40px;
+    margin-top: 0.6%;
+    font-weight: bold;
+}
+
+.about-description-container h2 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 27px;
+    margin-top: 0.6%;
+}
+
+.about-description-container p {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 27px;
+    margin-top: 0.6%;
+}
+
+.modelling {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.modelling-title {
+    background-color: #1E1E1E;
+    border-radius: 20px;
+    padding: 1%;
+    margin-top: 5%;
+}
+
+.modelling-title h1 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 0.6%;
+    margin-left: 0.5%;
+}
+
+.gameplay-video {
+    border: 5px solid #7F00FF;
+    border-radius: 1%;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.gameplay-video iframe {
+    height: 700px;
+    width: 100%;
+}
+
+.bottom-go-back-container {
+    height: 100px;
+}
+
+.bottom-go-back-button{
+    width: 65%;
+    margin: 0 auto;
+}
+
+.bottom-go-back-button h1 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10%;
+}
+
+.bottom-go-back-button a {
+    text-decoration: none;
+}
