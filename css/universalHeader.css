@@ -1,0 +1,181 @@
+.header {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.name-container {
+    width: 70%;
+    float: left;
+    margin-top: 9%;
+    margin-bottom: 7%;
+}
+
+.name-container h1 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.name-container a {
+    text-decoration: none;
+}
+
+.socials-container {
+    width: 70%;
+    float: right;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+
+
+/*CV-Button*/
+.cv-button {
+    border: none;
+    border-radius: 10px;
+    transition: border-radius 0.3s ease;
+}
+
+.cv-button img {
+    width: 100%;
+    height: 100%;
+}
+
+.cv-button:hover {
+    border-radius: 20px;
+    background-color: #D2BFFF;
+}
+
+/*Instagram-Button*/
+.instagram-button {
+    border: none;
+    border-radius: 10px;
+    transition: border-radius 0.3s ease;
+}
+
+.instagram-button img {
+    width: 100%;
+    height: 100%;
+}
+
+.instagram-button:hover {
+    border-radius: 20px;
+    background-color: #D2BFFF;
+}
+
+
+
+/*Facebook-Button*/
+.facebook-button {
+    border: none;
+    border-radius: 10px;
+    transition: border-radius 0.3s ease;
+}
+
+.facebook-button img {
+    width: 100%;
+    height: 100%;
+}
+
+.facebook-button:hover {
+    border-radius: 20px;
+    background-color: #D2BFFF;
+}
+
+
+
+/*Linkedin-Button*/
+.linkedin-button {
+    border: none;
+    border-radius: 10px;
+    transition: border-radius 0.3s ease;
+}
+
+.linkedin-button img {
+    width: 100%;
+    height: 100%;
+}
+
+.linkedin-button:hover {
+    border-radius: 20px;
+    background-color: #D2BFFF;
+}
+
+
+
+/*Discord-Button*/
+.discord-button {
+    border: none;
+    border-radius: 10px;
+    transition: border-radius 0.3s ease;
+}
+
+.discord-button img {
+    width: 100%;
+    height: 100%;
+}
+
+.discord-button:hover {
+    border-radius: 20px;
+    background-color: #D2BFFF;
+}
+
+
+
+/*Youtube-Button*/
+.youtube-button {
+    border: none;
+    border-radius: 10px;
+    transition: border-radius 0.3s ease;
+}
+
+.youtube-button img {
+    width: 100%;
+    height: 100%;
+}
+
+.youtube-button:hover {
+    border-radius: 20px;
+    background-color: #D2BFFF;
+}
+
+
+
+/*Facebook-Button*/
+.facebook-button {
+    border: none;
+    border-radius: 10px;
+    transition: border-radius 0.3s ease;
+}
+
+.facebook-button img {
+    width: 100%;
+    height: 100%;
+}
+
+.facebook-button:hover {
+    border-radius: 20px;
+    background-color: #D2BFFF;
+}
+
+
+
+/*Whatsapp-Button*/
+.whatsapp-button {
+    border: none;
+    border-radius: 10px;
+    transition: border-radius 0.3s ease;
+}
+
+.whatsapp-button img {
+    width: 100%;
+    height: 100%;
+}
+
+.whatsapp-button:hover {
+    border-radius: 20px;
+    background-color: #D2BFFF;
+}

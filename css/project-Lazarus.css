@@ -1,0 +1,260 @@
+body {
+    background-color: #121212;
+}
+
+.go-back{
+    width: 65%;
+    margin: 0 auto;
+}
+
+.go-back h1 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: right;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.project-lazarus-introduction {
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+.project-lazarus-title-container {
+    width: 70%;
+    margin-top: 7%;
+}
+
+.project-lazarus-title-container h1 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 350%;
+    margin-top: 30%;
+}
+
+.project-lazarus-image-container {
+    width: 120%;
+    float: right;
+}
+
+.project-lazarus-image {
+    background-color: #1E1E1E;
+    height: 100%;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+}
+
+.project-lazarus-image img {
+    border-radius: 2%;
+}
+
+.about-description-container {
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 5%;
+    padding: 1%;
+}
+
+.about-description-container h1 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 40px;
+    margin-top: 0.6%;
+    font-weight: bold;
+}
+
+.about-description-container h2 {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 27px;
+    margin-top: 0.6%;
+}
+
+.about-description-container p {
+    color: #E0E0E0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 27px;
+    margin-top: 0.6%;
+}
+
+.gameplay-video {
+    border: 5px solid #7F00FF;
+    border-radius: 1%;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.gameplay-video iframe {
+    height: 700px;
+    width: 100%;
+}
+
+.project-lazarus-image-collection {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.pl-one-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: left;
+}
+
+.pl-one-container img {
+    width: 100%;
+    transition: all 0.2s ease-in-out;
+}
+
+.pl-two-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: right;
+}
+
+.pl-two-container img {
+    width: 100%;
+}
+
+.pl-three-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: right;
+}
+
+.pl-three-container img {
+    width: 100%;
+}
+
+.pl-four-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: right;
+}
+
+.pl-four-container img {
+    width: 100%;
+}
+
+.pl-five-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: right;
+}
+
+.pl-five-container img {
+    width: 100%;
+}
+
+.pl-six-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: right;
+}
+
+.pl-six-container img {
+    width: 100%;
+}
+
+.pl-seven-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: right;
+}
+
+.pl-seven-container img {
+    width: 100%;
+}
+
+.pl-eight-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: right;
+}
+
+.pl-eight-container img {
+    width: 100%;
+}
+
+.pl-nine-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: right;
+}
+
+.pl-nine-container img {
+    width: 100%;
+}
+
+.pl-ten-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: right;
+}
+
+.pl-ten-container img {
+    width: 100%;
+}
+
+.pl-eleven-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: right;
+}
+
+.pl-eleven-container img {
+    width: 100%;
+}
+
+.pl-twelve-container {
+    width: 100%;
+    margin-top: 15%;
+    background-color: #1E1E1E;
+    border: 5px solid #9B5DE5;
+    border-radius: 3%;
+    float: right;
+}
+
+.pl-twelve-container img {
+    width: 100%;
+}
