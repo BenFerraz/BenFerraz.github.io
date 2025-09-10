@@ -34,7 +34,7 @@ body {
 
 .me-picture-container {
     width: 70%;
-    margin-top: 10%;
+    margin-top: 9.5%;
 }
 
 .me-picture-container img {
@@ -85,7 +85,7 @@ body {
     margin-left: 0.5%;
 }
 
-.game-one-container {
+.game-container {
     width: 100%;
     margin-top: 10%;
     margin-bottom: 7%;
@@ -95,65 +95,11 @@ body {
     float: left;
 }
 
-.game-one-container img {
+.game-container img {
     width: 100%;
 }
 
-.game-one-container img:hover {
-    filter: brightness(80%);
-}
-
-.game-two-container {
-    width: 100%;
-    margin-top: 10%;
-    margin-bottom: 7%;
-    background-color: #1E1E1E;
-    border: 5px solid #9B5DE5;
-    border-radius: 3%;
-    float: right;
-}
-
-.game-two-container img {
-    width: 100%;
-}
-
-.game-two-container img:hover {
-    filter: brightness(80%);
-}
-
-.game-three-container {
-    width: 100%;
-    margin-top: 10%;
-    margin-bottom: 7%;
-    background-color: #1E1E1E;
-    border: 5px solid #9B5DE5;
-    border-radius: 3%;
-    float: right;
-}
-
-.game-three-container img {
-    width: 100%;
-}
-
-.game-three-container img:hover {
-    filter: brightness(80%);
-}
-
-.game-four-container {
-    width: 100%;
-    margin-top: 10%;
-    margin-bottom: 7%;
-    background-color: #1E1E1E;
-    border: 5px solid #9B5DE5;
-    border-radius: 3%;
-    float: right;
-}
-
-.game-four-container img {
-    width: 100%;
-}
-
-.game-four-container img:hover {
+.game-container img:hover {
     filter: brightness(80%);
 }
 
@@ -179,7 +125,7 @@ body {
     margin-left: 0.5%;
 }
 
-.modelling-one-container {
+.modelling-container {
     width: 100%;
     margin-top: 10%;
     margin-bottom: 7%;
@@ -189,37 +135,13 @@ body {
     float: left;
 }
 
-.modelling-one-container img {
+.modelling-container img {
     width: 100%;
     transition: all 0.2s ease-in-out;
 }
 
-.modelling-two-container {
-    width: 100%;
-    margin-top: 10%;
-    margin-bottom: 7%;
-    background-color: #1E1E1E;
-    border: 5px solid #9B5DE5;
-    border-radius: 3%;
-    float: right;
-}
-
-.modelling-two-container img {
-    width: 100%;
-}
-
-.modelling-three-container {
-    width: 100%;
-    margin-top: 10%;
-    margin-bottom: 7%;
-    background-color: #1E1E1E;
-    border: 5px solid #9B5DE5;
-    border-radius: 3%;
-    float: right;
-}
-
-.modelling-three-container img {
-    width: 100%;
+.modelling-container img:hover {
+    filter: brightness(80%);
 }
 
 .education {
