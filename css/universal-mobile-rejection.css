@@ -1,5 +1,5 @@
 .mobile-message {
-    display: none;
+  display: none;
 }
 
 @media (max-width: 1024px) {
