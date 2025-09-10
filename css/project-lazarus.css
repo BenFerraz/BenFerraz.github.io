@@ -68,7 +68,7 @@ body {
     color: #E0E0E0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
-    font-size: 27px;
+    font-size: 23px;
     margin-top: 0.6%;
 }
 
@@ -77,7 +77,7 @@ body {
     border-radius: 1%;
     width: 65%;
     margin: 0 auto;
-    margin-top: 5%;
+    margin-top: 3%;
 }
 
 .gameplay-video iframe {
