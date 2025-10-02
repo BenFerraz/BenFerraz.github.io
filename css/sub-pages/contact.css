@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+    background-color: #121212;
+}
+
+.page-header{
+    background-image: url(../../assets/images/page-headers/portfolio-header.png);
+    height: 8vh;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 5vh;
+    
+}
+
+.page-header h1{
+    color: #E0E0E0;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 1.7vw;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 1.5%;
+    margin-left: 2%;
+}
+
+.pages {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.page-container {
+    width: 100%;
+    margin-top: 10%;
+    margin-bottom: 7%;
+    background-color: #9B5DE5;
+    border: 5px solid #9B5DE5;
+    border-radius: 5%;
+    float: left;
+    transition: border-radius 0.3s ease;
+}
+
+.page-container img {
+    width: 100%;
+    border-radius: 5%;
+    transition: border-radius 0.3s ease;
+}
+
+.page-container img:hover {
+    border-radius: 10%;
+}
+
+.page-container:hover {
+    border-radius: 10%;
+    filter:brightness(85%);
+}
+
+.alternate-contacts{
+    width: 20%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 2vh;
+}
