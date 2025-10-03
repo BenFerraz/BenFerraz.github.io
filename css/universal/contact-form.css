@@ -43,7 +43,7 @@
   background-color: #121212;
 
   border: 2.5px solid #9B5DE5;
-  border-radius: 4px;
+  border-radius: 10px;
   box-sizing: border-box;
 }
 
@@ -63,7 +63,7 @@
   background-color: #121212;
 
   border: 2.5px solid #9B5DE5;
-  border-radius: 4px;
+  border-radius: 10px;
   box-sizing: border-box;
 }
 
@@ -74,7 +74,7 @@
   background-color: #121212;
 
   border: 2.5px solid #9B5DE5;
-  border-radius: 4px;
+  border-radius: 10px;
   box-sizing: border-box;
 
   color: #E0E0E0;
