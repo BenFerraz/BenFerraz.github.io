@@ -14,17 +14,17 @@ body {
 .about-me {
     width: 65%;
     margin: 0 auto;
-    margin-top: 10%;
+    margin-top: 9%;
     margin-bottom: 10%;
 }
 
 .me-picture-container {
     width: 22.2vw;
-    margin-top: 9.4%;
+
 }
 
 .me-picture-container img {
-    width: 90%;
+    width: 93%;
     border: 4px solid #9B5DE5;
     border-radius: 10%;
 }
@@ -32,7 +32,6 @@ body {
 .me-description-container {
     width: 120%;
     float: right;
-    margin-top: 7%;
 }
 
 .me-description {
@@ -46,7 +45,7 @@ body {
 .me-description p {
     color: #E0E0E0;
     font-family: 'Lato', sans-serif;
-    font-size: 1.2vw;
+    font-size: 1.4vw;
 }
 
 .pages {
